@@ -7,7 +7,7 @@ A Django-based web application for recognizing handwritten digits using a traine
 ## 🚀 Features
 - 🧰 Built with **Django** framework
 - 🧠 Uses a trained **deep learning model** for digit recognition
-- 🖼️ User-friendly web interface for drawing or uploading digit images
+- 🖼️ User-friendly web interface for drawing 
 - 📊 Model evaluation and training scripts included
 
 ---
